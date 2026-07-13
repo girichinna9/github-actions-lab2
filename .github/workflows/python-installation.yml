@@ -1,4 +1,4 @@
-name: Installing Python
+name: Installing Python via matrix strategy
 'on':
   - push
 jobs:
